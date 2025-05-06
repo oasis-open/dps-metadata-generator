@@ -23,9 +23,10 @@ Initially, the TC members have designated one or more persons to serve as Mainta
 
 <a id="currentMaintainers">Current Maintainers</a> of this TC Open Repository are: 
 
-<b>********** SUPPLY TEXT*******</b> 
-
-- <MaintainerName>; <email-address>; GitHub ID: <id>- [<affiliation](<affiliation URL>)
+- Lisa Bobbitt,  lbobbitt, Cisco
+- Bryan Bortnick, BortnickIBM, IBM
+- Kristina Podnar kpodnar-dta, D&TA
+- Fotis Psallidas, psfotis, Microsoft
 
 ## About OASIS TC Open Repositories
 
