@@ -2,7 +2,7 @@
 
 ## Public Participation Invited
 
-This OASIS TC Open Repository [repo name](https://github.com/oasis-open/dps-metadata-generator) is a community public repository that supports participation by anyone, whether affiliated with OASIS or not.  Substantive contributions (repository "code") and related feedback is invited from all parties, following the common conventions for participation in GitHub public repository projects.  Participation is expected to be consistent with the [OASIS TC Open Repository Guidelines and Procedures](https://www.oasis-open.org/policies-guidelines/open-repositories), the [LICENSE](https://www.oasis-open.org/sites/www.oasis-open.org/files/<license>) designated for this particular repository (<license name>), and the requirement for an [Individual Contributor License Agreement](https://www.oasis-open.org/resources/open-repositories/cla/individual-cla). Please see the repository [README](https://github.com/oasis-open/<repo name>/blob/master/README.md) document for other details.
+This OASIS TC Open Repository [repo name](https://github.com/oasis-open/dps-metadata-generator) is a community public repository that supports participation by anyone, whether affiliated with OASIS or not.  Substantive contributions (repository "code") and related feedback is invited from all parties, following the common conventions for participation in GitHub public repository projects.  Participation is expected to be consistent with the [OASIS TC Open Repository Guidelines and Procedures](https://www.oasis-open.org/policies-guidelines/open-repositories), the [LICENSE](https://www.oasis-open.org/sites/www.oasis-open.org/files/<license>) designated for this particular repository (<license name>), and the requirement for an [Individual Contributor License Agreement](https://www.oasis-open.org/resources/open-repositories/cla/individual-cla). Please see the repository [README](https://github.com/oasis-open/dps-metadata-generator/blob/master/README.md) document for other details.
 
 ## Governance Distinct from OASIS TC Process
 
@@ -11,7 +11,6 @@ Content accepted as "contributions" to this TC Open Repository, as defined below
 ## Licensing Distinct from OASIS IPR Policy
 
 Because different licenses apply to the OASIS TC's specification work, and this TC Open Repository, there is no guarantee that the licensure of specific repository material will be compatible with licensing requirements of an implementation of a TC's specification.  Please refer to the [LICENSE](https://github.com/oasis-open/<repo name>/blob/master/LICENSE"> file for the terms of this material, and to the OASIS IPR Policy for [the terms applicable](https://www.oasis-open.org/policies-guidelines/ipr#RF-on-Limited-Mode) to the TC's specifications, including any applicable [declarations](https://www.oasis-open.org/committees/<tc-name>/ipr.php).
-
 
 
 ## Contributions Subject to Individual CLA
